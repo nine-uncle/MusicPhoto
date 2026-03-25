@@ -30,3 +30,11 @@ bower_components/
 
 # IDE/Editor data
 .idea
+
+# Vite
+dist
+dist-ssr
+*.local
+
+# pnpm
+.pnpm-debug.log*
